@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 정유진 이력서
 
-You can use the [editor on GitHub](https://github.com/nomellc/nomellc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+안녕하세요. 반갑습니다.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+이화여자대학교 사회과학대학 문헌정보학과
 
 ```markdown
 Syntax highlighted code block
