@@ -10,6 +10,9 @@
 
 문서 내에서 코드를 예쁘게 표현합니다.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 ```markdown
 Syntax highlighted code block
 
